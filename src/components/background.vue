@@ -2837,7 +2837,6 @@ svg {
   fill: #f2f2f2;
 }
 
-/* 
 svg #world {
   animation-name: animateWORLD;
   animation-duration: 15s;
@@ -3111,5 +3110,4 @@ svg #tablet polygon {
     transform: translateY(-1%);
   }
 }
- */
 </style>
