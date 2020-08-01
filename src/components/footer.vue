@@ -21,7 +21,7 @@
       </li>
       <li>Coou Mobile</li>
       <li>Spark</li>
-      <li>Dutton</li>
+      <li><a href="https://dutton.netlify.app/">Dutton</a></li>
       <li>All Projects</li>
     </div>
     <div>

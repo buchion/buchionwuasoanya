@@ -8,7 +8,6 @@
       </h1>
       <h3>Over the past 3 years, as a Full Stack Developer, I’ve worked with big companies and up-and-coming startups to successfully help them reach their full potential and attract new customers.Over the past 3 years, as a Full Stack Developer, I’ve worked with big companies and up-and-coming startups to successfully help them reach their full potential and attract new customers.</h3>
     </div>
-    <!-- <img src="../assets/imgbg2.png" /> -->
     <div class="secondDiv">
       <h1>Projects Case Study</h1>
       <div>
