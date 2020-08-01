@@ -1,28 +1,58 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="divBig">
+    <Home />
+    <backGround />
+    <myFooter />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Home from "./components/home.vue";
+import backGround from "./components/background";
+import myFooter from "./components/footer";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
+    Home,
+    backGround,
+    myFooter
   }
-}
+};
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800");
+
+html,
+body {
+  background-color: #f3f3f3;
+  font-family: "Montserrat", sans-serif;
+}
+
+html {
+  overflow: auto;
+}
+
+.divBig {
+  height: 1000px;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #ebebeb;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  margin: 5px 0 10px 0;
+}
+
+::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: #504f4f;
 }
 </style>
