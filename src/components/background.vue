@@ -1,5 +1,8 @@
 <template>
   <div class="content">
+    <div>
+      <img src="../assets/buchimg.png" style="margin-bottom: 5vh; width: 100%;" alt="Buchi Img" />
+    </div>
     <svg
       id="Layer_1"
       x="0px"
@@ -2688,7 +2691,7 @@ svg {
 }
 
 .st6 {
-  fill: #8c4da2;
+  fill: #788597 !important;
 }
 
 .st7 {
@@ -2836,6 +2839,7 @@ svg {
 .st41 {
   fill: #f2f2f2;
 }
+/*
 
 svg #world {
   animation-name: animateWORLD;
@@ -3110,4 +3114,6 @@ svg #tablet polygon {
     transform: translateY(-1%);
   }
 }
+
+*/
 </style>
