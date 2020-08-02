@@ -2839,7 +2839,6 @@ svg {
 .st41 {
   fill: #f2f2f2;
 }
-/*
 
 svg #world {
   animation-name: animateWORLD;
@@ -3114,6 +3113,4 @@ svg #tablet polygon {
     transform: translateY(-1%);
   }
 }
-
-*/
 </style>
