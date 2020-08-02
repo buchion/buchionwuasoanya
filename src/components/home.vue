@@ -39,7 +39,7 @@
         <h3>Spark</h3>
       </div>
       <div>
-        <img src="https://tympanus.net/Development/HoverEffectIdeas/img/12.jpg" alt="img12" />
+        <img src="../assets/mysite.png" alt="img12" />
         <h3>My Site</h3>
       </div>
     </div>
