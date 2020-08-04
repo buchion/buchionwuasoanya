@@ -11,8 +11,12 @@
         <br />especially since we may
         <br />be a few time zones away.
       </p>
-      <p class="p">E: buchionwuasoanya@gmail.com</p>
-      <p class="p">P: +234-818-2102-582</p>
+      <p class="p">
+        <a href="mailto:buchionwuasoanya@gmail.com">E: buchionwuasoanya@gmail.com</a>
+      </p>
+      <p class="p">
+        <a href="tel:+234-818-2102-582">P: +234-818-2102-582</a>
+      </p>
     </div>
     <div>
       <h3>Projects —</h3>
@@ -21,7 +25,9 @@
       </li>
       <li>Coou Mobile</li>
       <li>Spark</li>
-      <li><a href="https://dutton.netlify.app/">Dutton</a></li>
+      <li>
+        <a href="https://dutton.netlify.app/">Dutton</a>
+      </li>
       <li>All Projects</li>
     </div>
     <div>

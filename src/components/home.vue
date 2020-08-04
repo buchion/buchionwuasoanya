@@ -88,6 +88,7 @@ h5 {
 
 /* SECOND DIV STYLING */
 .secondDiv {
+  margin-bottom: 5vh;
   background: url("../assets/divbackground.jpg");
   padding: 5vh 0 10vh 0;
   display: flex;
@@ -193,7 +194,8 @@ h5 {
 }
 
 .secondDiv div:hover {
-  transform: scale(1.1);
+  box-shadow: 0 4px 8px 0 #00000033, 0 6px 20px 0 #00000030;
+  transform: scale(1.05);
   z-index: 2;
 }
 
@@ -208,7 +210,7 @@ h5 {
 }
 
 .secondDiv div {
-  box-shadow: 0 4px 8px 0 #00000033, 0 6px 20px 0 #00000030;
+  /* box-shadow: 0 4px 8px 0 #00000033, 0 6px 20px 0 #00000030; */
   height: 17rem;
   width: 22rem;
   opacity: 1;

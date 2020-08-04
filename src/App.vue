@@ -2,6 +2,7 @@
   <div class="divBig">
     <Home />
     <backGround />
+    <articles />
     <myFooter />
   </div>
 </template>
@@ -9,6 +10,7 @@
 <script>
 import Home from "./components/home.vue";
 import backGround from "./components/background";
+import articles from "./components/articles";
 import myFooter from "./components/footer";
 
 export default {
@@ -16,8 +18,9 @@ export default {
   components: {
     Home,
     backGround,
-    myFooter
-  }
+    articles,
+    myFooter,
+  },
 };
 </script>
 
@@ -40,7 +43,7 @@ html {
 
 /* Scrollbar Styling */
 ::-webkit-scrollbar {
-  width: 13px;
+  width: 10px;
 }
 
 ::-webkit-scrollbar-track {

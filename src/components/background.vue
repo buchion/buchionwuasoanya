@@ -3,6 +3,8 @@
     <div>
       <img src="../assets/buchimg.png" style="margin-bottom: 5vh; width: 100%;" alt="Buchi Img" />
     </div>
+    <!-- <h1>About</h1> 
+    <br />-->
     <svg
       id="Layer_1"
       x="0px"
@@ -2491,6 +2493,7 @@ c-3.5,2.3-5.7,6.1-5.9,10.3v15.8c0,3.8,2.7,5.3,5.9,3.4l14.5-8.3l6.9,3.6L603.6,454
         <circle class="st41" cx="677" cy="592.6" r="4.5" />
       </g>
     </svg>
+
     <div class="rightDiv">
       I am a Full-Stack Web Application developer with a passion for web technologies.
       <br />I write robust,
@@ -2573,6 +2576,7 @@ export default {
 
 svg {
   width: 90vw;
+  margin-top: 10vh;
 }
 
 .rightDiv {
