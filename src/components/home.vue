@@ -6,7 +6,8 @@
         Full Stack
         <br />Web Developer
       </h1>
-      <h3>Over the past 3 years, as a Full Stack Developer, I’ve worked with big companies and up-and-coming startups to successfully help them reach their full potential and attract new customers.Over the past 3 years, as a Full Stack Developer, I’ve worked with big companies and up-and-coming startups to successfully help them reach their full potential and attract new customers.</h3>
+
+      <h3>Over the past 3 years, as a Full Stack Developer, I’ve worked with big companies and up-and-coming startups to successfully help them reach their full potential and attract new customers.</h3>
     </div>
     <div class="secondDiv">
       <h1>Projects Case Study</h1>
@@ -35,8 +36,8 @@
         <h3>Nigerian Tourism</h3>
       </div>
       <div>
-        <img src="https://tympanus.net/Development/HoverEffectIdeas/img/12.jpg" alt="img12" />
-        <h3>Spark</h3>
+        <img src="../assets/precredita.png" alt="Procredita" />
+        <h3>Procredita</h3>
       </div>
       <div>
         <img src="../assets/mysite.png" alt="img12" />
