@@ -12,23 +12,23 @@
     <div class="secondDiv">
       <h1>Projects Case Study</h1>
       <div>
-        <img src="../assets/dutton.png" alt="Dutton" />
+        <img src="../assets/image/dutton.png" alt="Dutton" />
         <h3>Dutton Tea</h3>
       </div>
       <div>
-        <img src="../assets/sl.png" alt="Social Lender" />
+        <img src="../assets/image/sl.png" alt="Social Lender" />
         <h3>Social Lender</h3>
       </div>
       <div>
-        <img src="../assets/cooumobile.png" alt="CoouMobile" />
+        <img src="../assets/image/cooumobile.png" alt="CoouMobile" />
         <h3>Coou Mobile</h3>
       </div>
       <div>
-        <img src="../assets/scanin.png" alt="ScanIn" />
+        <img src="../assets/image/scanin.png" alt="ScanIn" />
         <h3>Scan In</h3>
       </div>
       <div>
-        <img src="../assets/dutton.png" alt="Dutton" />
+        <img src="../assets/image/dutton.png" alt="Dutton" />
         <h3>Dutton</h3>
       </div>
       <div>
@@ -36,11 +36,11 @@
         <h3>Nigerian Tourism</h3>
       </div>
       <div>
-        <img src="../assets/precredita.png" alt="Procredita" />
+        <img src="../assets/image/precredita.png" alt="Procredita" />
         <h3>Procredita</h3>
       </div>
       <div>
-        <img src="../assets/mysite.png" alt="img12" />
+        <img src="../assets/image/mysite.png" alt="img12" />
         <h3>My Site</h3>
       </div>
     </div>
@@ -61,7 +61,7 @@ export default {
 }
 
 .imagediv {
-  background: url("../assets/imgbg.png");
+  background: url("../assets/image/imgbg.png");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -90,7 +90,7 @@ h5 {
 /* SECOND DIV STYLING */
 .secondDiv {
   margin-bottom: 5vh;
-  background: url("../assets/divbackground.jpg");
+  background: url("../assets/image/divbackground.jpg");
   padding: 5vh 0 10vh 0;
   display: flex;
   flex-flow: row wrap;

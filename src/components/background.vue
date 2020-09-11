@@ -1,7 +1,11 @@
 <template>
   <div class="content">
     <div>
-      <img src="../assets/buchimg.png" style="margin-bottom: 5vh; width: 100%;" alt="Buchi Img" />
+      <img
+        src="../assets/image/buchimg.png"
+        style="margin-bottom: 5vh; width: 100%;"
+        alt="Buchi Img"
+      />
     </div>
     <!-- <h1>About</h1> 
     <br />-->
