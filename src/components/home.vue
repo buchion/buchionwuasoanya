@@ -36,7 +36,11 @@
         <h3>Nigerian Tourism</h3>
       </div>
       <div>
-        <img src="../assets/image/precredita.png" alt="Procredita" />
+        <!-- <video :src="procredita">alt="Procredita"</video> -->
+        <!-- <img src="../assets/image/precredita.png" alt="Procredita" /> -->
+        <video autoplay>
+          <source src="../assets/video/procredita.webm" type="video/webm" />
+        </video>
         <h3>Procredita</h3>
       </div>
       <div>
@@ -48,8 +52,14 @@
 </template>
 
 <script>
+// import procredita from "../assets/video/procredita.webm";
 export default {
   name: "Home",
+  // data: function () {
+  //   return {
+  //     procredita: procredita,
+  //   };
+  // },
 };
 </script>
 
@@ -206,6 +216,11 @@ h5 {
 }
 
 .secondDiv img {
+  width: 100%;
+  height: 80%;
+}
+
+.secondDiv video {
   width: 100%;
   height: 80%;
 }
