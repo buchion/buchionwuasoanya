@@ -38,7 +38,7 @@
       <div>
         <!-- <video :src="procredita">alt="Procredita"</video> -->
         <!-- <img src="../assets/image/precredita.png" alt="Procredita" /> -->
-        <video autoplay>
+        <video showcontrols>
           <source src="../assets/video/procredita.webm" type="video/webm" />
         </video>
         <h3>Procredita</h3>
