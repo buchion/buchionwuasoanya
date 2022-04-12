@@ -2564,7 +2564,7 @@ export default {
 }
 
 .skill p {
-  background-color: lightsteelblue;
+  background-color: #c1c6cc;
   margin: 3px;
   padding: 4px 8px 4px 8px;
   border-radius: 8px;

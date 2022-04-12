@@ -1,6 +1,7 @@
 <template>
   <div class="divBig">
     <Home />
+    <Projects />
     <backGround />
     <articles />
     <myFooter />
@@ -12,11 +13,13 @@ import Home from "./components/home.vue";
 import backGround from "./components/background";
 import articles from "./components/articles";
 import myFooter from "./components/footer";
+import Projects from "./components/projects";
 
 export default {
   name: "App",
   components: {
     Home,
+    Projects,
     backGround,
     articles,
     myFooter,
@@ -34,7 +37,8 @@ body {
 }
 
 html {
-  overflow: auto;
+  /* overflow: auto; */
+  overflow-x: hidden;
 }
 
 .divBig {
